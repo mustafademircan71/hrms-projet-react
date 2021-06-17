@@ -8,9 +8,7 @@ import Navi from './layouts/Navi';
 function App() {
   return (
     <div className="App">
-      <Navi/>
-      <br></br>
-       <Dashboard/>
+      <Dashboard/>
       
     </div>
   );
